@@ -1,0 +1,22 @@
+.author_info{
+    background-color: #34547A;
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
+    padding: 50px 0;
+}
+
+.contributor_block{
+    color: #ffffff;
+}
+
+.contributor_name{
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+.contributor_info{
+    line-height: 21px;
+
+}

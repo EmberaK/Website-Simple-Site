@@ -1,0 +1,43 @@
+.work{
+    background-color: #34547A;
+    padding: 100px 0;
+}
+
+.work_projects_card{
+    text-align: center;
+    white-space: nowrap; /* Предотвращаем перенос строк */
+}
+
+.work_projects_content{
+    margin-right: 40px;
+    text-align: left;
+    color: #ffffff;
+    display: inline-block;     /* Устанавливаем элементы как inline-block */
+    vertical-align: top; /* Выравниваем элементы по верхнему краю */
+}
+
+.work_projects_image{
+
+    display: inline-block;
+
+}
+.work_projects_images{
+    margin-right: 20px;
+
+}
+
+
+.work_projects_content_40{
+    margin-bottom: 10px;
+    font-size: 500;
+    font-size: 21px;
+    line-height: 25px;
+
+}
+
+.work_block{
+    background-color: #EEEFF1;
+    /* margin-bottom: 100px; */
+
+}
+
